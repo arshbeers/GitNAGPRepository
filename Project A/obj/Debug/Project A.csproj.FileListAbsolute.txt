@@ -1,0 +1,5 @@
+E:\NAGP-Jenkins\GitNAGPRepository\Project A\Project A\bin\Debug\Project A.dll
+E:\NAGP-Jenkins\GitNAGPRepository\Project A\Project A\bin\Debug\Project A.pdb
+E:\NAGP-Jenkins\GitNAGPRepository\Project A\Project A\obj\Debug\Project A.csprojResolveAssemblyReference.cache
+E:\NAGP-Jenkins\GitNAGPRepository\Project A\Project A\obj\Debug\Project A.dll
+E:\NAGP-Jenkins\GitNAGPRepository\Project A\Project A\obj\Debug\Project A.pdb
